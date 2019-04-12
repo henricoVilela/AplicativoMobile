@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="34">
+      <Unit0>
+        <Filename Value="controls.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="19" Y="20"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule1"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jForm;jImageBtn;jPanel;jsDrawerLayout;jsNavigationView;jsToolbar"/>
+        </CustomData>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="108"/>
+        <CursorPos X="26" Y="118"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit2loginlocador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule2"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jDialogYN;jEditText;jForm;jImageBtn;jPanel;jsToolbar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="176"/>
+        <CursorPos X="25" Y="176"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unit3cadastro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule3"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jEditText;jForm;jPanel;jsFloatingButton;jSpinner;jsToolbar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="104"/>
+        <CursorPos X="99" Y="104"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unitcontrol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="106"/>
+        <CursorPos X="37" Y="33"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit4listimovellocador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule4"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jForm;jImageFileManager;jListView;jsFloatingButton;jsToolbar;jTextFileManager"/>
+        </CustomData>
+        <EditorIndex Value="5"/>
+        <TopLine Value="186"/>
+        <CursorPos X="65" Y="188"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unit5registerimovel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule5"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jCustomDialog;jDialogYN;jEditText;jForm;jImageBtn;jPanel;jsFloatingButton;jSpinner;jsTextInput;jsToolbar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="152"/>
+        <CursorPos X="48" Y="166"/>
+        <UsageCount Value="202"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit6takephoto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule6"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jCustomCamera;jEditText;jHttpClient;jImageBtn;jsFloatingButton"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="126"/>
+        <CursorPos X="58" Y="173"/>
+        <UsageCount Value="178"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unit7viewimoveis.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule7"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm;jImageView;jsAppBarLayout;jsCollapsingToolbarLayout;jsCoordinatorLayout;jsFloatingButton;jsRecyclerView;jsToolbar"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="77"/>
+        <CursorPos X="93" Y="89"/>
+        <UsageCount Value="169"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="unit8panelview.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule8"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm;jImageView;jPanel;jRatingBar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="100" Y="26"/>
+        <UsageCount Value="160"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unit9viewdetailsimoveis.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule9"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jBroadcastReceiver;jButton;jCustomDialog;jDialogYN;jDownloadService;jEditText;jForm;jIntentManager;jMaps;jPanel;jRadioGroup;jRatingBar;jsCoordinatorLayout;jsFloatingButton;jsRecyclerView;jsToolbar;jTextView;jViewFlipper"/>
+        </CustomData>
+        <EditorIndex Value="1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="63" Y="116"/>
+        <UsageCount Value="153"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unit10viewimovellocador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule10"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jBroadcastReceiver;jDownloadService;jForm;jIntentManager;jsCoordinatorLayout;jsRecyclerView;jsToolbar;jViewFlipper"/>
+        </CustomData>
+        <EditorIndex Value="4"/>
+        <TopLine Value="70"/>
+        <CursorPos X="73" Y="80"/>
+        <UsageCount Value="141"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="unit11copycadastro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule11"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="106" Y="32"/>
+        <UsageCount Value="139"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="unit12checkvisit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule12"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jCustomDialog;jDatePickerDialog;jDialogYN;jEditText;jForm;jImageBtn;jPanel;jsFloatingButton;jSpinner;jsToolbar;jTextView;jTimePickerDialog"/>
+        </CustomData>
+        <EditorIndex Value="2"/>
+        <TopLine Value="86"/>
+        <CursorPos X="11" Y="100"/>
+        <UsageCount Value="138"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="unit13loginlocatario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule13"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jEditText;jForm;jImageBtn;jsToolbar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="51" Y="82"/>
+        <UsageCount Value="134"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule14"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jCustomDialog;jEditText;jForm;jImageView;jListView;jPanel;jsToolbar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="3"/>
+        <TopLine Value="187"/>
+        <CursorPos X="71" Y="77"/>
+        <UsageCount Value="124"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="unit15viewrequestimoveis.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule15"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jBroadcastReceiver;jCustomDialog;jDownloadManager;jEditText;jForm;jImageBtn;jListView;jPanel;jRadioGroup;jsToolbar;jTextView"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="258"/>
+        <CursorPos X="66" Y="265"/>
+        <UsageCount Value="110"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="unit16viewavaliacoes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AndroidModule16"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm;jsCoordinatorLayout;jsRecyclerView;jsToolbar"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="77"/>
+        <CursorPos X="39" Y="84"/>
+        <UsageCount Value="51"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="httpdefs.pp"/>
+        <UnitName Value="HTTPDefs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="280"/>
+        <CursorPos X="5" Y="290"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\Laz_And_Controls.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="592"/>
+        <CursorPos X="14" Y="592"/>
+        <UsageCount Value="8"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\androidwidget.pas"/>
+        <UnitName Value="AndroidWidget"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="535"/>
+        <CursorPos X="21" Y="578"/>
+        <UsageCount Value="8"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\And_lib_Image.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="139"/>
+        <CursorPos X="26" Y="148"/>
+        <UsageCount Value="8"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\broadcastreceiver.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="44" Y="48"/>
+        <UsageCount Value="8"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\Laz_And_GLESv2_Canvas.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="575"/>
+        <CursorPos X="3" Y="584"/>
+        <UsageCount Value="8"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\scollapsingtoolbarlayout.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="15" Y="56"/>
+        <UsageCount Value="8"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\srecyclerview.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="15" Y="61"/>
+        <UsageCount Value="8"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\laz4android1.8\fpc\3.0.4\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="98"/>
+        <UsageCount Value="8"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:\laz4android1.8\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="928"/>
+        <CursorPos X="3" Y="735"/>
+        <UsageCount Value="8"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="C:\laz4android1.8\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="23" Y="203"/>
+        <UsageCount Value="9"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="unit10teste.pas"/>
+        <ComponentName Value="AndroidModule10"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm;jViewFlipper"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="104" Y="36"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\..\backup\Residency4Rent\jni\unit9viewdetailsimoveis.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="unit2loginlocador.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="unit16viewinfolocatario.pas"/>
+        <ComponentName Value="AndroidModule16"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm"/>
+        </CustomData>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="16"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="unit15viewrequestimoveis.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit33>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="167" Column="51" TopLine="162"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="132" Column="60" TopLine="97"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="80" Column="64" TopLine="70"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="81" Column="64" TopLine="71"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="82" Column="64" TopLine="72"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="83" Column="64" TopLine="73"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="84" Column="64" TopLine="74"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="85" Column="64" TopLine="75"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="86" Column="64" TopLine="76"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="87" Column="64" TopLine="77"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="88" Column="64" TopLine="78"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="89" Column="64" TopLine="79"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="88" Column="64" TopLine="78"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unit14viewinteresse.pas"/>
+        <Caret Line="87" Column="64" TopLine="77"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="23" Column="7" TopLine="14"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unit10viewimovellocador.pas"/>
+        <Caret Line="123" Column="64" TopLine="122"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unit10viewimovellocador.pas"/>
+        <Caret Line="122" Column="64" TopLine="121"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unit10viewimovellocador.pas"/>
+        <Caret Line="65" Column="6" TopLine="58"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="10" Column="22"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="11" Column="51"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="113" Column="67" TopLine="98"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="109" Column="49" TopLine="104"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="115" Column="90" TopLine="105"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="111" Column="6" TopLine="106"/>
+      </Position24>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,84 @@
+object FPWebModule1: TFPWebModule1
+  OldCreateOrder = False
+  Actions = <  
+    item
+      Name = 'usuario'
+      Default = False
+      OnRequest = usuarioRequest
+      Template.AllowTagParams = False
+    end  
+    item
+      Name = 'imovel'
+      Default = False
+      OnRequest = imovelRequest
+      Template.AllowTagParams = False
+    end  
+    item
+      Name = 'imagens'
+      Default = False
+      OnRequest = imagensRequest
+      Template.AllowTagParams = False
+    end  
+    item
+      Name = 'alugar'
+      Default = False
+      OnRequest = alugarRequest
+      Template.AllowTagParams = False
+    end  
+    item
+      Name = 'avaliacao'
+      Default = False
+      OnRequest = avaliacaoRequest
+      Template.AllowTagParams = False
+    end>
+  CreateSession = False
+  Height = 150
+  HorizontalOffset = 248
+  VerticalOffset = 114
+  Width = 338
+  object SQLTransaction1: TSQLTransaction
+    Active = False
+    Action = caCommit
+    Database = SQLite3Connection1
+    Options = []
+    left = 62
+    top = 34
+  end
+  object SQLQuery1: TSQLQuery
+    FieldDefs = <>
+    Database = SQLite3Connection1
+    Transaction = SQLTransaction1
+    Options = []
+    Params = <>
+    left = 152
+    top = 32
+  end
+  object SQLQuery2: TSQLQuery
+    FieldDefs = <>
+    Database = SQLite3Connection1
+    Transaction = SQLTransaction1
+    Options = []
+    Params = <>
+    left = 200
+    top = 32
+  end
+  object SQLite3Connection1: TSQLite3Connection
+    Connected = False
+    LoginPrompt = False
+    DatabaseName = 'Residency4Rent.db'
+    KeepConnection = False
+    Transaction = SQLTransaction1
+    Options = []
+    left = 224
+    top = 88
+  end
+  object SQLQuery3: TSQLQuery
+    FieldDefs = <>
+    Database = SQLite3Connection1
+    Transaction = SQLTransaction1
+    Options = []
+    Params = <>
+    left = 255
+    top = 32
+  end
+end

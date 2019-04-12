@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\laz4android1.8\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1266908408"/>
+  <Params Value=" -Tandroid -Parm -Mdelphi -Scghim -CX -Os3 -Xs -XX -l -vewnhibq -FlC:\Android\android-ndk-r16b\platforms\android-22\arch-arm\usr\lib -FlC:\Android\android-ndk-r16b\toolchains\arm-linux-androideabi-4.9\prebuilt\windows\lib\gcc\arm-linux-androideabi\4.9.x -FuC:\laz4android1.8\components\lazandroidmodulewizard\android_bridges\lib\arm-android -FuC:\laz4android1.8\lcl\units\arm-android -FuC:\laz4android1.8\components\lazutils\lib\arm-android -FuC:\laz4android1.8\packager\units\arm-android -FuC:\Android\workspace\Residency4Rent\jni\ -FUC:\Android\workspace\Residency4Rent\obj\controls\ -FEC:\Android\workspace\Residency4Rent\libs\armeabi\ -olibcontrols.so -Xd -CfSoft -CpARMV6 -XParm-linux-androideabi- -FDC:\Android\android-ndk-r16b\toolchains\arm-linux-androideabi-4.9\prebuilt\windows\bin controls.lpr"/>
+</CONFIG>
